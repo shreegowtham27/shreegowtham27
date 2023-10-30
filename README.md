@@ -1,4 +1,4 @@
-- 👋 Hi, I’m shreegowtham27, a FullStack Web Developer, DevOps Engineer, Startup Consultant and also a Mentor.
+- 👋 Hi, I’m shreegowtham27, a FullStack Web Developer, DevOps Engineer, Startup Consultant, and Mentor for enthusiasts.
 - 💞️ I’m looking to collaborate on **Research and Learning on DevOps and DevSecOps**
 
 ## Reach me out here
