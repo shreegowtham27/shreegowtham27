@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreegowtham27&label=Profile%20views&color=0e75b6&style=flat" alt="shreegowtham27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreegowtham27&margin-w=15&row=2&column=3&theme=matrix" alt="shreegowtham27" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreegowtham27&margin-w=15&row=2&column=3&theme=matrix" alt="shreegowtham27" /></a> </p>
 
 - 💬 Ask me about **Networking,Cloud Computing,Cyber Security,AWS,DevOps,DevSecOps,Web Development**
 
