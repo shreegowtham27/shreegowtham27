@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shree Gowtham</h1>
-<h3 align="center">A Technophile with a Knowledge of Networking, Cloud Computing and Full Stack Development, Currently focusing on DevOps/DevSecOps && Cloud Architect from India <3</h3>
+<h3 align="center">A Technophile with a Knowledge of Networking, Cloud Computing and Full Stack Development. Currently focusing on DevOps/DevSecOps && Cloud Architect from India <3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreegowtham27&label=Profile%20views&color=0e75b6&style=flat" alt="shreegowtham27" /> </p>
 
